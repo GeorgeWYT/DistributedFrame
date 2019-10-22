@@ -1,4 +1,4 @@
-package com.xiaoqiang;
+package redis.jedis.use;
 
 import org.redisson.Redisson;
 import org.redisson.api.RedissonClient;

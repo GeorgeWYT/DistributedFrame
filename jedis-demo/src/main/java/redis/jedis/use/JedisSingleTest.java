@@ -1,4 +1,4 @@
-package com.xiaoqiang;
+package redis.jedis.use;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
