@@ -23,7 +23,7 @@ public class JedisSingleTest {
             jedis.set("single", "xiaoqiang");
             System.out.println(jedis.get("single"));
         }catch (Exception e){
-
+            System.out.println(e.getStackTrace());
         }
     }
 }
